@@ -11,6 +11,8 @@ I want to create coasters with a tree pattern to be laser cut. Tree patterns can
 
 ## Examples of generated files
 
+These images are screenshots of svgs generated using `tree_coaster_generator.py`. The svgs are available under `results/test*.svg`
+
 ![This was an early test that didn't run for very long](results/testA.png)
 
 ![I allowed this generator to run for 1 minute.](results/testB.png)
